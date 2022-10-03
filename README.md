@@ -1,1 +1,1 @@
-# Hand_Gesture_Controlled_Mouse
+# Gesture_Controlled_Mouse
